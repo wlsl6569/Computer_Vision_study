@@ -1,0 +1,7 @@
+1.물체 탐지 개념 이해:
+RCNN을 공부하기 전에 물체 탐지(Object Detection)에 대한 기본 개념을 이해, 물체 탐지의 종류(2-stage vs. 1-stage) 등
+
+2. RCNN 논문 읽기:
+Ross Girshick - "Rich feature hierarchies for accurate object detection and semantic segmentation"  읽고 RCNN의 기본적인 아이디어와 구조를 이해
+
+3. 오픈소스 구현 코드 살펴보기

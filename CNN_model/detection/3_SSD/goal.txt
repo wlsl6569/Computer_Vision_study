@@ -1,0 +1,8 @@
+1.논문 읽기:
+Wei Liu- "SSD: Single Shot Multibox Detector"
+
+2. SSD 알고리즘 이해
+
+3. 구현 코드 분석:
+오픈소스 구현 코드 분석
+
